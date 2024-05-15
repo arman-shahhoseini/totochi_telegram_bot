@@ -4,7 +4,7 @@ from googletrans import Translator
 import urllib.request
 from telebot import types
 
-TOKEN = 'input token telegram bot' 
+TOKEN = 'input your telegram bot token' 
 id_Admin = "input Numerical ID admin in telegram (get your Numerical ID from thats bot https://t.me/userinfobot)"
 
 
