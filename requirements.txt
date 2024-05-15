@@ -1,0 +1,5 @@
+pip install DateTime
+pip install pytz
+pip install googletrans==4.0.0-rc1
+pip install pyTelegramBotAPI
+pip install urllib3
